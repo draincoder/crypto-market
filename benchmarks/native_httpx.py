@@ -5,7 +5,7 @@ import httpx
 from colorama import Fore, Style
 from progress.bar import IncrementalBar
 
-DERIBIT = 'https://www.deribit.com/api/v2//public/test'
+DERIBIT = 'https://www.deribit.com/api/v2/public/test'
 BINANCE_UM = 'https://fapi.binance.com/fapi/v1/ping'
 BINANCE_CM = 'https://dapi.binance.com/dapi/v1/ping'
 
